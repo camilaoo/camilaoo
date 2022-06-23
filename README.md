@@ -1,0 +1,7 @@
+- # sobre mim
+- 👋 Hi, I’m @camilaoo
+- :+: meu email de contato é @camila.fragoso@escola.pr.gov.br
+- eu estou interessada em aprender a programar novas linguagens. 
+- eu estou aprendendo recentemente a linguagem de JavaScript e Scratch
+- 
+-
